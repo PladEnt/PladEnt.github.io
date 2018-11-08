@@ -1,11 +1,11 @@
 # Site settings
 author: Joshua D. Forrest
-title: 
+title: The Method Behind Hashes
 header-img: img/home-bg.png
 email: joshuadforrest@gmail.com
 copyright_name: Joshua D. Forrest
 description: > # this means to ignore newlines until "baseurl:"
-  
+  How Hashes Work
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  PladEnt
